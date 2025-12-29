@@ -15,6 +15,6 @@
 - https://gurmeet.net/puzzles/ 
 - https://www.tradermath.org/
 
-### External Companies
+### Companies Hiring Internationally
 - https://gist.github.com/idontknowjs/22f3257bed32dd3ab99ff22316e51eb8
 
